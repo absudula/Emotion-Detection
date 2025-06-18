@@ -74,4 +74,7 @@ The system recognizes and responds to 7 primary emotions:
 - [outputs](./outputs): Contains the sample output results of the system execution on Jetson.
 - [doc](./doc): Contains the detailed project report explaining all the key details of the project. Go through [PROJECT_REPORT](./doc/PROJECT_REPORT.pdf) document.
 
+## Demo
+Here is the short recorded demo of this system: 
+[![Demo on NVIDIA Jetson Orin Nano](./outputs/model_output_surprise_crop.png)](https://www.youtube.com/watch?v=rXJtAaB0-Yg)
 This system demonstrates significant potential for transforming child-computer interaction through empathetic and responsive digital experiences, achieving state-of-the-art performance while maintaining real-time operation on edge devices.
