@@ -6,8 +6,6 @@ A real-time AI system that detects children's facial expressions and generates r
 
 This project combines advanced facial expression recognition with conditional generative adversarial networks to create an interactive system that responds to children's emotions in real-time. The system detects facial expressions through a camera feed and generates appropriate animated character responses to support emotional development and engagement. A quick overview of the end-to-end system is explained in the [PROJECT_POSTER](./PROJECT_POSTER.pdf) document.
 
-![System Architecture](./doc/system_architecture.png)
-
 ## Key Features
 
 - **Real-time facial expression recognition** with 93.71% accuracy across 7 emotion classes
